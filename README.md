@@ -1,7 +1,8 @@
+### Google Test Suite
+
 # MODULE 1 — Playwright Basics + Setup
 
-✅ Goal of Module 1  
-You will write one working test that:
+✅ Goal of Module 1
 
 - Opens Google
 - Waits 3 seconds
